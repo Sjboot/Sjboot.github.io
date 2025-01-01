@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sjboot.github.io/</loc>
+    <loc>https://SJTdreams.github.io/</loc>
     <lastmod>2024-12-29T12:41:22+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sjboot.github.io/en/"
+                href="https://SJTdreams.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://sjboot.github.io/ar/"
+                href="https://SJTdreams.github.io/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://sjboot.github.io/"
+                href="https://SJTdreams.github.io/"
                 />
   </url><url>
-    <loc>https://sjboot.github.io/post/</loc>
+    <loc>https://SJTdreams.github.io/post/</loc>
     <lastmod>2024-12-29T12:41:22+08:00</lastmod>
   </url><url>
-    <loc>https://sjboot.github.io/p/%E8%B5%B7%E7%82%B9/</loc>
+    <loc>https://SJTdreams.github.io/p/%E8%B5%B7%E7%82%B9/</loc>
     <lastmod>2024-12-29T12:41:22+08:00</lastmod>
   </url><url>
-    <loc>https://sjboot.github.io/page/</loc>
+    <loc>https://SJTdreams.github.io/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sjboot.github.io/archives/</loc>
+    <loc>https://SJTdreams.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sjboot.github.io/%E5%85%B3%E4%BA%8E%E4%BD%9C%E8%80%85/</loc>
+    <loc>https://SJTdreams.github.io/%E5%85%B3%E4%BA%8E%E4%BD%9C%E8%80%85/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sjboot.github.io/categories/</loc>
+    <loc>https://SJTdreams.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sjboot.github.io/en/categories/"
+                href="https://SJTdreams.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://sjboot.github.io/ar/categories/"
+                href="https://SJTdreams.github.io/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://sjboot.github.io/categories/"
+                href="https://SJTdreams.github.io/categories/"
                 />
   </url><url>
-    <loc>https://sjboot.github.io/tags/</loc>
+    <loc>https://SJTdreams.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sjboot.github.io/en/tags/"
+                href="https://SJTdreams.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://sjboot.github.io/ar/tags/"
+                href="https://SJTdreams.github.io/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://sjboot.github.io/tags/"
+                href="https://SJTdreams.github.io/tags/"
                 />
   </url><url>
-    <loc>https://sjboot.github.io/categories/test/</loc>
+    <loc>https://SJTdreams.github.io/categories/test/</loc>
   </url><url>
-    <loc>https://sjboot.github.io/search/</loc>
+    <loc>https://SJTdreams.github.io/search/</loc>
   </url><url>
-    <loc>https://sjboot.github.io/%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://SJTdreams.github.io/%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5/</loc>
   </url>
 </urlset>

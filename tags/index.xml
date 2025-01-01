@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on 疏间徒泍の旅途</title>
-        <link>https://sjboot.github.io/tags/</link>
+        <link>https://SJTdreams.github.io/tags/</link>
         <description>Recent content in Tags on 疏间徒泍の旅途</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>疏间徒泍</copyright><atom:link href="https://sjboot.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>疏间徒泍</copyright><atom:link href="https://SJTdreams.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

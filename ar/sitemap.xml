@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sjboot.github.io/ar/categories/</loc>
+    <loc>https://SJTdreams.github.io/ar/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sjboot.github.io/en/categories/"
+                href="https://SJTdreams.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://sjboot.github.io/categories/"
+                href="https://SJTdreams.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://sjboot.github.io/ar/categories/"
+                href="https://SJTdreams.github.io/ar/categories/"
                 />
   </url><url>
-    <loc>https://sjboot.github.io/ar/tags/</loc>
+    <loc>https://SJTdreams.github.io/ar/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sjboot.github.io/en/tags/"
+                href="https://SJTdreams.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://sjboot.github.io/tags/"
+                href="https://SJTdreams.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://sjboot.github.io/ar/tags/"
+                href="https://SJTdreams.github.io/ar/tags/"
                 />
   </url><url>
-    <loc>https://sjboot.github.io/ar/</loc>
+    <loc>https://SJTdreams.github.io/ar/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sjboot.github.io/en/"
+                href="https://SJTdreams.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://sjboot.github.io/"
+                href="https://SJTdreams.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://sjboot.github.io/ar/"
+                href="https://SJTdreams.github.io/ar/"
                 />
   </url>
 </urlset>
